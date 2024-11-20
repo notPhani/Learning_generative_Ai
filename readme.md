@@ -70,15 +70,18 @@ Make sure to have the following installed:
 - NumPy
 - Matplotlib
 
-Install dependencies using:
+---
+
+## I have learnt something and so can you!! Happy Coding
+
+Install dependencies and run the file using:
 
 
 ```bash
 pip install -r requirements.txt
+python3 main.py
 
----
 
-## I have learnt something and so can you!! Happy Coding
 
 
 
