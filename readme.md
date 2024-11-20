@@ -58,12 +58,7 @@ Key layers:
 2. **Objective**:
     - Generator minimizes the Discriminator's ability to distinguish fake images.
     - Discriminator maximizes its ability to classify real vs. fake.
-
----
-
-## 📂 Project Structure
-├── data/ │ ├── mnist/ # MNIST dataset ├── models/ │ ├── generator.py # Generator architecture │ ├── discriminator.py # Discriminator architecture ├── train.py # GAN training script ├── utils.py # Utility functions (e.g., plot generation) ├── README.md # Project documentation
-
+    - 
 ---
 
 ## 🔧 Requirements
@@ -77,8 +72,13 @@ Make sure to have the following installed:
 
 Install dependencies using:
 
+
 ```bash
 pip install -r requirements.txt
+
+---
+
+## I have learnt something and so can you!! Happy Coding
 
 
 
